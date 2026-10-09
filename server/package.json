@@ -1,0 +1,16 @@
+{
+  "name": "jalsetu-server",
+  "version": "1.0.0",
+  "description": "JalSetu Dispatch Engine",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.1148.0",
+    "@aws-sdk/lib-dynamodb": "^3.1148.0",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3"
+  }
+}

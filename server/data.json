@@ -1,0 +1,42 @@
+[
+  {
+    "wardId": "HYD-W12",
+    "name": "Madhapur - Sector 3",
+    "currentWaterLevelMeters": 4.2,
+    "criticalThresholdMeters": 3.0,
+    "dailyDepletionRate": 0.35,
+    "households": 420,
+    "vulnerabilityTier": "HIGH",
+    "lastUpdated": "2026-10-09"
+  },
+  {
+    "wardId": "HYD-W14",
+    "name": "Kondapur Green Meadows",
+    "currentWaterLevelMeters": 8.5,
+    "criticalThresholdMeters": 4.0,
+    "dailyDepletionRate": 0.20,
+    "households": 650,
+    "vulnerabilityTier": "MEDIUM",
+    "lastUpdated": "2026-10-09"
+  },
+  {
+    "wardId": "HYD-W18",
+    "name": "Gachibowli Tech Enclave",
+    "currentWaterLevelMeters": 3.4,
+    "criticalThresholdMeters": 3.2,
+    "dailyDepletionRate": 0.40,
+    "households": 810,
+    "vulnerabilityTier": "CRITICAL",
+    "lastUpdated": "2026-10-09"
+  },
+  {
+    "wardId": "HYD-W21",
+    "name": "Jubilee Hills Ward 4",
+    "currentWaterLevelMeters": 12.0,
+    "criticalThresholdMeters": 4.5,
+    "dailyDepletionRate": 0.25,
+    "households": 320,
+    "vulnerabilityTier": "LOW",
+    "lastUpdated": "2026-10-09"
+  }
+]
